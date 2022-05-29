@@ -1,4 +1,4 @@
-# Ascii-Drawer-Python
+# Ascii-Image-Converter
 RUS:
 Для использования, скиньте фото которые нужно преобразовать в папку "sources", затем запустите программу
 ENG:
